@@ -20,6 +20,7 @@ Results-driven and innovative Software Engineer with a passion for crafting robu
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
+[![](https://visitcount.itsvg.in/api?id=iaschowrai&label=Profile%20Views&color=6&icon=2&pretty=false)](https://visitcount.itsvg.in)
 ---
 [![](https://visitcount.itsvg.in/api?id=iaschowrai&icon=0&color=0)](https://visitcount.itsvg.in)
 
