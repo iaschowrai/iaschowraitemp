@@ -6,6 +6,10 @@
 //
 // Scripts
 // 
+OnlineWebFonts_Com({
+    'Id':'.div',
+    'Data':__Animations['253306'],
+}).Play();
 
 window.addEventListener('DOMContentLoaded', event => {
 
