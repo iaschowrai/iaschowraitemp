@@ -1,4 +1,4 @@
-import logo from "../assets/images/IALogo.png"
+import logo from "../assets/images/IAlogo.png"
 import { FaDownload } from "react-icons/fa";
 import { FaLinkedin } from "react-icons/fa";
 import { FaGithub } from "react-icons/fa";
