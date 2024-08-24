@@ -6,18 +6,20 @@ I'm Irshad, a Full Stack Java Developer with a passion for designing and buildin
 
 ## 🔧 Technologies & Tools
 
-- **Languages**: Java, JavaScript, TypeScript
+- **Languages**: Java, JavaScript
 - **Frontend**: React, HTML5, CSS3, Tailwind CSS
 - **Backend**: Spring Boot, RESTful APIs, Microservices
 - **Databases**: MySQL, MongoDB, PostgreSQL
-- **Cloud**: AWS, Azure
 - **DevOps**: Docker, Kubernetes, Jenkins
-- **Messaging**: Kafka, Redis
+- **Messaging**: Confluent Apache Kafka
+- **Caching**: Redis
+- **Cloud**: AWS, Azure
 
-## 🚀 Current Projects
+
+<!-- ## 🚀 Current Projects
 
 - **[Project Name](#)**: Description of your current project.
-- **[Another Project](#)**: Brief description of another project you’re working on.
+- **[Another Project](#)**: Brief description of another project you’re working on. -->
 
 <!-- ## 📈 My Contributions
 
@@ -44,11 +46,11 @@ You can download my resume here: [Resume](../assets/resume/Resume_IrshadAhmed3.p
 Thank you for visiting my profile! 🚀
 
 
-# React + Vite
+<!-- # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
 
 - [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh -->
