@@ -3,7 +3,7 @@ import project2 from "../assets/projects/project-2.jpg";
 import project3 from "../assets/projects/project-3.jpg";
 import project4 from "../assets/projects/project-4.jpg";
 
-export const HERO_CONTENT = `I am a passionate full stack developer with a knack for crafting robust and scalable web applications. With 5 years of hands-on experience, I have honed my skills in front-end technologies like React, Vite.js and framer motion, as well as back-end technologies like Java, Spring Boot, Spring Cloud, Event-Driven Architecture, Docker, MySQL, PostgreSQL, and MongoDB. My goal is to leverage my expertise to create innovative solutions that drive business growth and deliver exceptional user experiences.`;
+export const HERO_CONTENT = `I am a passionate full stack developer with a knack for crafting robust and scalable web applications. With 7+ years of hands-on experience, I have honed my skills in front-end technologies like React, Vite.js and framer motion, as well as back-end technologies like Java, Spring Boot, Spring Cloud, Event-Driven Architecture, Docker, MySQL, PostgreSQL, and MongoDB. My goal is to leverage my expertise to create innovative solutions that drive business growth and deliver exceptional user experiences.`;
 
 // export const ABOUT_TEXT = `I am a dedicated and versatile full stack developer with a passion for creating efficient and user-friendly web applications. With 5 years of professional experience, I have worked with a variety of technologies, including React, Next.js, Node.js, MySQL, PostgreSQL, and MongoDB. My journey in web development began with a deep curiosity for how things work, and it has evolved into a career where I continuously strive to learn and adapt to new challenges. I thrive in collaborative environments and enjoy solving complex problems to deliver high-quality solutions. Outside of coding, I enjoy staying active, exploring new technologies, and contributing to open-source projects.`;
 
@@ -12,12 +12,8 @@ export const EXPERIENCES = [
     year: "Mar/2024 - Present",
     role: "Software Engineer",
     company: "Wavesoft Solutions Inc.",
-    description: `Worked closely with stakeholders to define project requirements and deliver full-stack solutions within tight deadlines.
-    Developed user-friendly frontend components using React.js, 
-    improving UI performance and enhancing client engagement. Collaborated with cross-functional teams, implementing responsive designs and integrating RESTful APIs with 
-    MongoDB backends. Architected and developed multi-threaded Spring Boot solutions for handling high-volume insurance data, optimizing storage and retrieval in AWS S3 and RDS MySQL. 
-    Spearheaded automation of real-time data processing using AWS Lambda and EventBridge, improving system efficiency by 30% and handling over 5000 daily events. 
-    Led integration of WireMock for vendor API testing, reducing bugs by 15% and enhancing testing reliability.`,
+    description: `Worked closely with stakeholders to define project requirements and deliver full-stack solutions within tight deadlines. Developed user-friendly frontend components using React.js, improving UI performance and enhancing client engagement. Collaborated with cross-functional teams, implementing responsive designs and integrating RESTful APIs with 
+    MongoDB backends. Architected and developed multi-threaded Spring Boot solutions for handling high-volume insurance data, optimizing storage and retrieval in AWS S3 and RDS MySQL. Spearheaded automation of real-time data processing using AWS Lambda and EventBridge, improving system efficiency by 30% and handling over 5000 daily events. Led integration of WireMock for vendor API testing, reducing bugs by 15% and enhancing testing reliability.`,
     technologies: ["React.js", "Tailwind", "JavaScript", "Java", "Spring Boot", "MongoDB", "AWS", "AWS Lambda", "S3", "WireMock", "MySQL", "RESTful APIs"]
   },
   {
@@ -49,10 +45,11 @@ export const EXPERIENCES = [
 export const PROJECTS = [
   {
     title: "E-Commerce Website",
+    link: "https://github.com/iaschowrai/Ecommerce-Project",
     image: project1,
     description:
       "A fully functional e-commerce website with features like product listing, shopping cart, and user authentication.",
-    technologies: ["HTML", "CSS", "React", "Node.js", "MongoDB"],
+    technologies: ["Java", "Spring Boot", "Spring Cloud", "Spring MVC", "Microservice", "Oauth2", "Spring Security","RestCLient", "Kafka", "MySQL", "MongoDB", "Flyways", 'Docker', "Git"],
   },
   {
     title: "Task Management App",
