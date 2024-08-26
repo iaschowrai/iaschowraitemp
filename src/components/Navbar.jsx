@@ -11,7 +11,7 @@ const Navbar = () => {
             <a href="https://www.iaschowrai.com"><img className="mx-2 w-10" src={logo} alt="logo" /></a>
         </div>
         <div className="m-8 flex items-center justify-center gap-4 text-2xl">
-        <span className="flex flex-wrap gap-2 font-thin tracing-tight">Download Resume -&gt;</span>
+        <span className="flex flex-wrap gap-2 font-thin tracing-tight text-sm">Download Resume -&gt;</span>
             <a href={resume}
               // download
                 target="_blank"
