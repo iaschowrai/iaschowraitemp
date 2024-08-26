@@ -11,7 +11,7 @@ const Project = () => {
         {/* Project Image */}
         <div className="w-full lg:w-1/4 flex justify-center lg:justify-end mb-6 lg:mb-0">
           <img 
-            className="w-full h-auto max-w-[240px] rounded" 
+            className="w-3/4 max-h-[200px] max-w-[200px] rounded-md" 
             src={projects.image} 
             alt={projects.title} 
           />
