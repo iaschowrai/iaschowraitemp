@@ -41,7 +41,7 @@ Feel free to reach out to me via:
 
 ## 📑 Resume
 
-You can download my resume here: [Resume](../assets/resume/Resume_fullstack_IrshadAhmed.pdf)
+You can download my resume here: [Resume](./src/assets/resume/Resume_fullstack_IrshadAhmed.pdf)
 
 Thank you for visiting my profile! 🚀
 
