@@ -2,7 +2,7 @@ import logo from "../assets/images/IAlogo.png"
 import { FaDownload } from "react-icons/fa";
 import { FaLinkedin } from "react-icons/fa";
 import { FaGithub } from "react-icons/fa";
-import  resume  from "../assets/resume/Resume_IrshadAhmed_3.pdf"
+import  resume  from "../assets/resume/Resume_fullstack_IrshadAhmed.pdf"
 
 const Navbar = () => {
   return (
