@@ -3,7 +3,8 @@ import { FaDownload, FaLinkedin, FaGithub } from "react-icons/fa";
 
 const Navbar = () => {
   // Google Drive direct download link
-  const resumeLink = "https://drive.google.com/uc?export=download&id=11RLU4pwwndmhGiUaUK4Z6OB1rOiV7zni";
+  // const resumeLink = "https://drive.google.com/uc?export=download&id=11RLU4pwwndmhGiUaUK4Z6OB1rOiV7zni";
+  const resumeLink = "https://drive.google.com/file/d/11j_YZQfjx9hBAIs0pTFCfcUA4qPm4bdK/view?usp=sharing";
 
   return (
     <nav className="mb-20 flex item-center justify-between py-6">
