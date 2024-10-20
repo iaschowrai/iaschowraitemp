@@ -39,10 +39,10 @@ Feel free to reach out to me via:
 - [GitHub](https://github.com/your-profile)
 - [Email](mailto:your-email@example.com) -->
 
-## 📑 Resume
+<!-- ## 📑 Resume
 
 You can download my resume here: [Resume](https://drive.google.com/file/d/1jVD67Y3HhkhkpN6odIxVSksdQ_lX4TFS/view?usp=sharing)
-
+-->
 Thank you for visiting my profile! 🚀
 
 
