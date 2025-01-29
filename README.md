@@ -2,7 +2,7 @@
 
 Hi there! 👋
 
-I'm Irshad, a Full Stack Java Developer with a passion for designing and building robust, scalable applications. With expertise in both frontend and backend technologies, I specialize in creating seamless user experiences and efficient system architectures. Here’s a bit more about me:
+I'm Irshad, a Software Engineer with a passion for designing and building robust, scalable applications. With expertise in both frontend and backend technologies, I specialize in creating seamless user experiences and efficient system architectures. Here’s a bit more about me:
 
 ## 🔧 Technologies & Tools
 
